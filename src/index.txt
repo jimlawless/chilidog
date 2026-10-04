@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html><head><title>Your title goes here.</title>
+<meta charset="UTF-8">
+<meta name="author" content="Your name goes here.">
+<meta property="og:title" content="Your title goes here." />
+<meta property="og:description" content="Your title goes here." />
+<meta property="og:type" content="website" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="chili-body">
+
+[comment]
+   "top" needs two parameters ... an image and a date string.  
+    If you just want the top item to display the title, use "atop" and pass * as the second parameter.
+[/comment]
+[atop This is from index.txt|*]
+
+[include frag1.txt]
+
+[include frag2.txt]
+
+</body></html>

@@ -1,0 +1,42 @@
+.chili-body {
+    background-color: #222222;
+    color: white;
+    font-family: Verdana;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.chili-marquis {
+    background-color: black;
+    color: white;
+    width: 100%;
+    max-width: 800px;
+    margin-left: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.chili-inset {
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 5px;
+}
+
+.chili-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.chili-h1-inverse {
+    color: white;
+}
+
+.chili-google {
+    background-color: #cccccc;
+}
